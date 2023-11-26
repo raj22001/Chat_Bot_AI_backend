@@ -1,29 +1,9 @@
-# ChatGPT & React JS App
+how to run on local machine 
 
-Build your own ChatGPT App by webstylepress.
+1. Fork the repositorie .
 
-## How to Use
+2. Use git clone for clonong repositorie.
 
-In the project directory, open terminal and install dependencies by using following command:
+3. type "npm install" in local terminal it will install node module .
 
-### `npm install`
-
-### Configuration
-
-It will need OpenAI API key from your OpenAI account. Place this key in .env file that is in project root directory.
-
-### Run Application
-
-Use following command:
-
-### `npm run dev`
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### Links
-
-WebStylePress
-
-Tutorial: https://youtu.be/u2rvIO4n92s
-
-Channel Link: https://www.youtube.com/@webstylepress
+4. npm run dev to start code .
